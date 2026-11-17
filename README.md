@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mohammad Almistarehi 👋
 
-<!--
-**Mohammad-Almistarehi/Mohammad-Almistarehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | ACL Analytics | Audit & Compliance Data Analytics**
 
-Here are some ideas to get you started:
+Software Engineering graduate from Jordan University of Science and Technology (JUST), currently working as a Data Analyst Trainee at ZeeDimension.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on audit and compliance data analytics: building scripts that import, clean, validate and classify data, and turning the results into clear dashboards.
+
+## 🛠️ Skills
+
+- **Data Analytics:** Data Validation, Data Quality Checks, Data Preparation, Exception Reporting
+- **Audit & Compliance:** ACL Analytics (ACLScript), ACL Robotics, FATCA / CRS Analytics
+- **Platforms & BI:** Diligent One (Results, Activity Center), Dashboard Development
+- **Programming & Querying:** SQL, Python, Java, C#, Dart
+- **Mobile Development:** Flutter, Firebase
+
+## 📚 Currently Learning
+
+- Scripting in Analytics (ACL 303)
+- Python for data analysis
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/mohammad-almistarehi-190627325
+- Email: Mohammadalmistarehi60@gmail.com
